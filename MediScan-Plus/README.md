@@ -33,6 +33,12 @@ An AI-powered Streamlit application for credit risk assessment using machine lea
 
 ## Usage
 
+1. If you do not upload a CSV, the app will automatically load the built-in large sample dataset `sample_credit_data_large.csv`.
+2. Upload a CSV file with credit data if you want to use your own dataset.
+3. Select the target column for prediction.
+4. Adjust the test size slider if needed.
+5. View visualizations and model metrics.
+
 1. Upload a CSV file with credit data (e.g., features like income, credit score, etc., and a target column for default status).
 2. Select the target column for prediction.
 3. Adjust the test size slider if needed.
